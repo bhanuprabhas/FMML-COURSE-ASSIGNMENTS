@@ -1,2 +1,2 @@
-# IIIT_FMML_IHUB_HYD
+# FMML-COURSE-ASSIGNMENT
 IIIT Hyd Internship collaboration with Kiet
